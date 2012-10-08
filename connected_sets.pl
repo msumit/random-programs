@@ -28,7 +28,8 @@
 # Constraint :
 # 0 < T < 6 
 # 0 < N < 1009 
-
+# Time Limit : 16sec
+#
 # Read input from STDIN. Print output to STDOUT
 
 my $t = <STDIN>;

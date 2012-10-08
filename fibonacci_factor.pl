@@ -24,6 +24,7 @@
 # 1 <= T <= 5
 # 2 <= K <= 1000,000
 # The required fibonacci number is guranteed to be less than 10^18.
+# Time Limit : 16sec
 #
 # Read input from STDIN. Print output to STDOUT
 

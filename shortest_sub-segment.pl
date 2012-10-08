@@ -30,6 +30,7 @@
 # Total number of character in a paragraph will not be more than 200,000.
 # 0 < k <= no. of words in paragraph.
 # 0 < Each word length < 15
+# Time Limit : 16sec
 #
 # Read input from STDIN. Print output to STDOUT
 

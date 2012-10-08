@@ -25,8 +25,8 @@
 # 
 # Constraints :
 # 1 <= M <= 100
-#  
 # Note: 24 00 has to be presented as 00 00.
+# Time Limit : 16sec
 #
 # Read input from STDIN. Print output to STDOUT
 
